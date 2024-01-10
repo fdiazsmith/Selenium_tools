@@ -1,0 +1,8 @@
+Client identifier
+f24e0b4eac01dccd43c662e4384cbb82dfc4b352
+
+Client secrets
+CWlAmhSguJusPRGHJX59L0hXrLWiIf4BPQVIzKqEXUPyBRjLp3wokje7d2KLEhogpUiOw5jO5k4hEM0SvuSfYe4MUyRshCT003xIkJkX/KXz6VKAW2COpEV82sLTCLsg
+
+token
+2230e3eb538f1fb20d4b78a9707d5ab1
